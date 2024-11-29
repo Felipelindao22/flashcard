@@ -1,6 +1,18 @@
-body{
-    background-color: rgb(29, 160, 31);
-    font-family:Bai Jamjuree
+#conteiner{
+    display: flex;
+
+}
+.cartao {
+    margin: 1rem 1rem;
+    background-color: floralwhite;
+}
+
+body {
+    background-color: rgb(33, 122, 182);
+    font-size: 7rem;
+    font-family: 'bokor';
+    color: cornflowerblue;
+    font-family:Bai Jamjuree 
 }
 
 footer {
@@ -12,7 +24,7 @@ footer {
     height: 2rem;
 }
 
-footer p{
+footer p {
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0,5rem;
