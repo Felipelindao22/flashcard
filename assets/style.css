@@ -4,14 +4,22 @@
 }
 .cartao {
     margin: 1rem 1rem;
-    background-color: floralwhite;
+    background-color: rgb(159, 185, 241);
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33%) ;
+}
+
+.cartao__conteudo{
+    text-align: center;
+    height: 100%;
 }
 
 body {
-    background-color: rgb(33, 122, 182);
+    background-color: rgba(90, 136, 179, 0.76);
     font-size: 3rem;
     font-family: 'bokor';
-    color: cornflowerblue;
+    color: rgba(80, 137, 190, 0.76);
     font-family:Bai Jamjuree 
 }
 
